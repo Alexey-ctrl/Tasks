@@ -1,0 +1,157 @@
+.fs-15 {
+    font-size: 1.5rem;
+}
+
+.fw-b {
+    font-weight: bold;
+}
+
+.p-1 {
+    padding: 1rem;
+}
+
+.p-05 {
+    padding: 0.5rem;
+}
+
+.pb-05 {
+    padding-bottom: 0.5rem;
+}
+
+.mt-05 {
+    margin-top: 0.5rem;
+}
+
+.ml-05 {
+    margin-left: 0.5rem;
+}
+
+.ml-1 {
+    margin-left: 1rem;
+}
+
+.mt-1 {
+    margin-top: 1rem;
+}
+
+.h-100 {
+    height: 100%;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.w-80 {
+    width: 80%;
+}
+
+.w-20 {
+    width: 20%;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.bg-info {
+    background-color: #ffc107;
+}
+
+.btn {
+    padding: 0.3rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: 0.2s;
+    border: 1px solid black;
+}
+
+.btn:disabled {
+    cursor: not-allowed;
+}
+
+.btn-default {
+    color: #212529;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+}
+
+.btn-default:hover {
+    background-color: #e2e6ea;
+    border-color: #dae0e5;
+}
+
+.btn-fill-red {
+    color: white;
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.btn-fill-red:hover {
+    background-color: #c82333;
+    border-color: #bd2130;
+}
+
+.btn-border-red {
+    color: #dc3545;
+    background-color: white;
+    border-color: #dc3545;
+}
+
+.btn-border-red:hover {
+    color: white;
+    background-color: #dc3545;
+}
+
+.btn-fill-green {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-fill-green:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+.btn-border-green {
+    color: #198754;
+    background-color: white;
+    border-color: #198754;
+}
+
+.btn-border-green:hover {
+    color: white;
+    background-color: #198754;
+}
+
+.btn-border-blue {
+    color: #007bff;
+    background-color: white;
+    border-color: #007bff;
+}
+
+.btn-border-blue:hover {
+    color: white;
+    background-color: #007bff;
+}
+
+.btn-fill-blue {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-fill-blue:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+}
+
+.text-input {
+    border-radius: 0.25rem;
+    border: 1px solid #ced4da;
+    line-height: 1.5;
+    color: #495057;
+    box-sizing: border-box;
+    padding: 0.2rem 0.5rem;
+}
